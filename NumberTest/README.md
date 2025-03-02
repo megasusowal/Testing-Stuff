@@ -1,0 +1,1 @@
+So to activate this lua program u need a lua compiler ready and setup. Thats all just turn on the program (u can also change the numbers from the memory test numbers)
