@@ -1,0 +1,1 @@
+To activate any of those events first u need a lua compiler ready and setup. Next run the code and if u want to activate the first event just type "Activate Event1" without the string symbol ofc. And its the same for all 5 events just change the number at the end to the event u want to activate.
