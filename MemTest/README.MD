@@ -1,0 +1,1 @@
+So to activate this u need a lua compiler. then you can just choose the "Memory test" or "exit". thats all
