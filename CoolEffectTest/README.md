@@ -1,0 +1,1 @@
+Hello welcome so if you're using this script just get a lua compiler setup and in the module.lua script there will be a comment at the start of the script telling u at which line are the text options. Thank you for using this script.
